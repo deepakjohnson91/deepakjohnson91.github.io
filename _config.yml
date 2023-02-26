@@ -20,9 +20,9 @@ author: Deepak Johnson
 ###############################################
 
 navbar-links:
-  Home: "aboutme"
+  Home: "home"
   CV: 
-  Publications: 
+  Publications: "pubs.md"
 
 ################
 # --- Logo --- #
