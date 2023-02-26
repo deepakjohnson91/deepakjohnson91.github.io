@@ -20,8 +20,8 @@ author: Deepak Johnson
 ###############################################
 
 navbar-links:
-  Home: "home"
-  CV: 
+  CV: "home"
+  Projects: "projects"
   Publications: "pubs"
 
 ################
