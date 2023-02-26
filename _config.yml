@@ -48,10 +48,10 @@ navbar-links:
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "deepak@fas.org.in"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: deepakjohnson91
   twitter: deepakmercy
   linkedin: deepakjohnson
+#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
