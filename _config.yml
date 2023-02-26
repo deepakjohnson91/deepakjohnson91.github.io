@@ -51,6 +51,8 @@ social-network-links:
   github: deepakjohnson91
   twitter: deepakmercy
   linkedin: deepakjohnson
+  ORCID: 0000-0001-5980-6955
+  google-scholar: kMAgzMcAAAAJ
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  patreon: DeanAttali
 #  youtube: c/daattali
@@ -68,8 +70,6 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
 #  hackerrank: yourname
