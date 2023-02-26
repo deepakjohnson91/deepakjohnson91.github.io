@@ -2,7 +2,7 @@
 title: "Projects"
 layout: page
 ---
-This is a list of projects that I have worked in the recent months. Some of them are yet to be completed. Please get in touch with me in case you are interested.  
+This is a list of projects that I have worked in the recent months. Some of them are yet to be completed. Please get in touch with me (over email), in case you are interested.  
 
 ### Price and Non-Price Factors in Rice Cultivation: A Comparative Sutdy of Kerala and the Mekong Delta  
 This is the extension of my PhD work, where I compare the relative contribution of price and non-price factors in incomes from rice cultivation in Kerala (in southern India) and the Mekong Delta in Vietnam. 
