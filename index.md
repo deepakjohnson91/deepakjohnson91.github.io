@@ -3,6 +3,8 @@ layout: page
 title: "Deepak Johnson"
 ---
 
+![image](https://user-images.githubusercontent.com/6260268/221387307-077370ea-f84e-4274-a3b2-771ca42f2553.png)
+
 I am a JSPS ([Japan Society for the Promotion of Science](https://www.jsps.go.jp/english/)) Postdoctoral Fellow at the [Institute of Economic Research, Hitotsubashi University](https://www.ier.hit-u.ac.jp/English/), Tokyo, Japan. 
 Prior to this, I worked as an Associate Fellow at the [Foundation for Agrarian Studies](https://fas.org.in/), Bengaluru, India.  
 
