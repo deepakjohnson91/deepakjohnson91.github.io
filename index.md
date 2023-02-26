@@ -15,6 +15,4 @@ The degree was awarded by the [Tata Institute of Social Sciences, Mumbai](https:
 My interest areas are development economics and agricultural economics. 
 I am currently exploring the contribution of price and non-price factors in agricultural development, with specific reference to India and Vietnam.  
 
-I am also interested in visualisation of data. Some of my visualisations are present in the [Projects](https://deepakjohnson91.github.io/projects) page.  
-
 A note about my name: My official name is "Karayamparambil Deepak Johnson" with "Karayamparambil" being my surname (family name). However, I prefer to use "Deepak Johnson."  
