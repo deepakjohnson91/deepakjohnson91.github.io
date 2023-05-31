@@ -7,7 +7,7 @@ This is a list of projects that I have worked in the recent months. Some of them
 ### Price and Non-Price Factors in Rice Cultivation: A Comparative Sutdy of Kerala and the Mekong Delta  
 This is the extension of my PhD work, where I compare the relative contribution of price and non-price factors in incomes from rice cultivation in Kerala (in southern India) and the Mekong Delta in Vietnam. 
 The two study regions are associated with similar agroclimatic conditions, land distribution, and historical importance of rice production. The data for this study comes from detailed household surveys conducted in two best-performing villages within these regions. 
-A research paper from this study is under preparation now.  
+A working paper, written in collaboration with Professor Takashi Kurosaki, is available [here](https://www.ier.hit-u.ac.jp/Common/publication/DP/DPS-A741.pdf).  
 
 ### Trends in Costs and Incomes from Crop Production in India
 This was a component of the [research project](https://fas.org.in/research/research-projects/trends-in-gender-division-of-work-and-wages-in-rural-india/) titled “Big Data Analysis to Understand Trends in Gender Division of Work and Wages in Rural India and Trends in Costs and Incomes from Crop Production in India.”
