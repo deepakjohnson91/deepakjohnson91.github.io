@@ -19,6 +19,7 @@ layout: page
 
 ### FAS Blogs
 The [blog](https://fas.org.in/blog/) of the Foundation for Agrarian Studies (FAS) has carried some of the posts. The FAS Blog is a wonderful platform for researchers in agrarian studies and agriculture to present their ideas for a general audience. The feeback is very useful and the editorial process is quite rigorous.  
+  - "[Land Reforms and Change: Illustrations from Villages in Central Kerala](https://fas.org.in/land-reforms-villages-central-kerala-namboodiripad/)", July 26, 2023.
   - "[Kharif MSP Announcement has to be Reconciled with Rising Costs across India](https://fas.org.in/kharif-msp-announcement-has-to-reconcile-with-rising-costs-across-india/)" (along with N. Sujan), June 27, 2022. 
   - "[What does the Situation Assessment Survey Say about MSP and Procurement Operations?](https://fas.org.in/what-does-the-situation-assessment-survey-say-about-msp-and-procurement-operations/)", September 18, 2022. It has a nice [Flourish visualisation](https://public.flourish.studio/visualisation/7268142/). 
   - "[Fieldwork in An Giang, Vietnam](https://fas.org.in/fieldwork-in-an-giang-vietnam/)", November 18, 2019. 
