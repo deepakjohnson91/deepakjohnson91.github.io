@@ -4,10 +4,11 @@ layout: page
 ---
 
 ### Journal Publications
+  - Johnson, Deepak (2023), "[What is the Contribution of Government Support to Farm Incomes? A Case Study of Rice Cultivation from Kerala, India](https://ras.org.in/2c442bc30eb5eae983e1d302f3353529)," *Review of Agrarian Studies*, vol. 13, no. 1.
   - Modak, Tapas Singh, Baksi, Sandipan, and Johnson, Deepak (2020), “[Impact of Covid-19 on Indian Villages](http://ras.org.in/d1f1c91f41c51238d19a505303ce14eb),” *Review of Agrarian Studies*, vol. 10, no. 1. 
   - Johnson, Deepak (2018), “[Cropping Pattern Changes in Kerala, 1956-57 to 2016-17](http://ras.org.in/cropping_pattern_changes_in_kerala_1956),” *Review of Agrarian Studies*, vol. 8, no. 1.
 
-### Working Papers
+### Working Paper
   - Johnson, Deepak and Kurosaki, Takashi (2023), “[Price Support and Farm Incomes: Comparative Study of Rice Growing Regions in Southern India and Mekong-Delta Vietnam](https://www.ier.hit-u.ac.jp/Common/publication/DP/DPS-A741.pdf),” Discussion Paper Series A, No.741, Institute of Economic Research, Hitotsubashi University, Tokyo. 
 
 ### Publications in Other Media
