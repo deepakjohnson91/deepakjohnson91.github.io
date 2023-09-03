@@ -16,11 +16,11 @@ layout: page
   - "[കേരളത്തിലെ കാർഷിക മേഖലയും കർഷകത്തൊഴിലാളികളും](https://themalabarjournal.com/labour-theme-agricultural-sector-and-agricultural-workers-in-kerala-deepak-johnson/), (in Malayalam) (English: Kerala's Agricultural Sector and Agricultural Workers), *The Malabar Journal*, May 26, 2022. 
   - “[Food security does not need this ‘surgical strike'](https://www.thehindu.com/opinion/lead/food-security-does-not-need-this-surgical-strike/article65447720.ece),” (along with Madhura Swaminathan), *The Hindu*, March 23, 2022.
   - “[The Kerala alternative](https://frontline.thehindu.com/cover-story/kerala-government-policy-interventions-in-terms-of-expanding-price-support-and-ensuring-direct-procurement-of-farm-produce-present-an-alternative-course-for-agricultural-policies-in-india/article33319094.ece)" (print title) *Frontline*, January 1, 2021.
-  - "[Grantee Update: Deepak Johnson](https://inlaksshivdasanifoundationblog.org/home/2020/12/14/grantee-update-deepak-johnson)", *Inlaks Shivdasani Foundation Blog*, December 15, 2020. (The Research and Travel Grant from the Inlaks shivdasani Foundation helped me in undertaking the fieldwork in Vietnam. This blog has a detailed description of the fielwork and some preliminary results.)
+  - "[Grantee Update: Deepak Johnson](https://inlaksshivdasanifoundationblog.org/home/2020/12/14/grantee-update-deepak-johnson)", *Inlaks Shivdasani Foundation Blog*, December 15, 2020. (Research and Travel Grant from the Inlaks shivdasani Foundation helped me to conduct fieldwork in Vietnam. This blog has a detailed description of the fieldwork and some preliminary results.)
   - "[Kerala's approach to containing corona](https://www.business-standard.com/article/opinion/kerala-s-approach-to-containing-corona-120042200026_1.html)" (along with Madhura Swaminathan), *Business Standard*, April 22, 2020.
 
 ### FAS Blogs
-The [blog](https://fas.org.in/blog/) of the Foundation for Agrarian Studies (FAS) has carried some of the posts. The FAS Blog is a wonderful platform for researchers in agrarian studies and agriculture to present their ideas for a general audience. The feeback is very useful and the editorial process is quite rigorous.  
+The [blog](https://fas.org.in/blog/) of the Foundation for Agrarian Studies (FAS) has published some of my posts. FAS Blog is a wonderful platform for researchers in agrarian studies and agriculture to present their ideas for a general audience. Their feeback is very useful and the editorial process is quite rigorous.  
   - "[Land Reforms and Change: Illustrations from Villages in Central Kerala](https://fas.org.in/land-reforms-villages-central-kerala-namboodiripad/)", July 26, 2023.
   - "[Kharif MSP Announcement has to be Reconciled with Rising Costs across India](https://fas.org.in/kharif-msp-announcement-has-to-reconcile-with-rising-costs-across-india/)" (along with N. Sujan), June 27, 2022. 
   - "[What does the Situation Assessment Survey Say about MSP and Procurement Operations?](https://fas.org.in/what-does-the-situation-assessment-survey-say-about-msp-and-procurement-operations/)", September 18, 2022. It has a nice [Flourish visualisation](https://public.flourish.studio/visualisation/7268142/). 
@@ -30,5 +30,3 @@ The [blog](https://fas.org.in/blog/) of the Foundation for Agrarian Studies (FAS
   - "[Does Market Intervention Scheme Really Help Potato Farmers?](https://fas.org.in/does-market-intervention-scheme-really-help-potato-farmers/)", February 21, 2018. 
   - "[Rice Cultivation in Kole Wetlands of Kerala](https://fas.org.in/rice-cultivation-in-kole-wetlands-of-kerala/)", December 27, 2017. 
   - "[A Report on the Socio-Economic Survey of Households in Taliparamba Constituency](https://fas.org.in/a-report-on-households-in-taliparamba/)", (along with Arindam Das), October 20, 2016.  
-
-
