@@ -4,10 +4,10 @@ layout: page
 ---
 
 ### Journal Publications
-  - Johnson, Deepak (2023), "[International Organisations and Agriculture - A Current Perspective](https://www.epw.in/journal/2023/33/book-reviews/international-organisations-and-agriculture.html)," *Economic and Political Weekly*, vol. 58, no. 33, pp. 34-36 (Book Review).
-  - Johnson, Deepak (2023), "[What is the Contribution of Government Support to Farm Incomes? A Case Study of Rice Cultivation from Kerala, India](https://ras.org.in/2c442bc30eb5eae983e1d302f3353529)," *Review of Agrarian Studies*, vol. 13, no. 1, pp. 42-60.
-  - Modak, Tapas Singh, Baksi, Sandipan, and Johnson, Deepak (2020), “[Impact of Covid-19 on Indian Villages](http://ras.org.in/d1f1c91f41c51238d19a505303ce14eb),” *Review of Agrarian Studies*, vol. 10, no. 1, pp. 181-203. 
-  - Johnson, Deepak (2018), “[Cropping Pattern Changes in Kerala, 1956-57 to 2016-17](http://ras.org.in/cropping_pattern_changes_in_kerala_1956),” *Review of Agrarian Studies*, vol. 8, no. 1, pp. 65-99.
+  - Johnson, Deepak (2023), "[International Organisations and Agriculture - A Current Perspective](https://www.epw.in/journal/2023/33/book-reviews/international-organisations-and-agriculture.html)," *Economic and Political Weekly*, vol. 58, no. 33, pp. 34--36 (Book Review).
+  - Johnson, Deepak (2023), "[What is the Contribution of Government Support to Farm Incomes? A Case Study of Rice Cultivation from Kerala, India](https://ras.org.in/2c442bc30eb5eae983e1d302f3353529)," *Review of Agrarian Studies*, vol. 13, no. 1, pp. 42--60.
+  - Modak, Tapas Singh, Baksi, Sandipan, and Johnson, Deepak (2020), “[Impact of Covid-19 on Indian Villages](http://ras.org.in/d1f1c91f41c51238d19a505303ce14eb),” *Review of Agrarian Studies*, vol. 10, no. 1, pp. 181--203. 
+  - Johnson, Deepak (2018), “[Cropping Pattern Changes in Kerala, 1956-57 to 2016-17](http://ras.org.in/cropping_pattern_changes_in_kerala_1956),” *Review of Agrarian Studies*, vol. 8, no. 1, pp. 65--99.
 
 ### Working Paper
   - Johnson, Deepak and Kurosaki, Takashi (2023), “[Price Support and Farm Incomes: Comparative Study of Rice Growing Regions in Southern India and Mekong-Delta Vietnam](https://www.ier.hit-u.ac.jp/Common/publication/DP/DPS-A741.pdf),” Discussion Paper Series A, No.741, Institute of Economic Research, Hitotsubashi University, Tokyo. 
