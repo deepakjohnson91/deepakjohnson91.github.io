@@ -10,10 +10,13 @@ layout: page
   - Johnson, Deepak (2018), “[Cropping Pattern Changes in Kerala, 1956-57 to 2016-17](http://ras.org.in/cropping_pattern_changes_in_kerala_1956),” *Review of Agrarian Studies*, vol. 8, no. 1, pp. 65&ndash;99.
 
 ### Working Paper
-  - Johnson, Deepak and Kurosaki, Takashi (2023), “[Price Support and Farm Incomes: Comparative Study of Rice Growing Regions in Southern India and Mekong-Delta Vietnam](https://www.ier.hit-u.ac.jp/Common/publication/DP/DPS-A741.pdf),” Discussion Paper Series A, No.741, Institute of Economic Research, Hitotsubashi University, Tokyo. 
+  - Johnson, Deepak and Kurosaki, Takashi (2023), “[Price Support and Farm Incomes: Comparative Study of Rice Growing Regions in Southern India and Mekong-Delta Vietnam](https://www.ier.hit-u.ac.jp/Common/publication/DP/DPS-A741.pdf),” Discussion Paper Series A, No.741, Institute of Economic Research, Hitotsubashi University, Tokyo.
+
+### Report
+  - “[Trends in Costs and Incomes from Crop Production in India: Analysis of Costs of Cultivation Data, 2000–01 to 2019–20](https://fas.org.in/wp-content/uploads/2024/02/Work-Package_2-new_FAS-IRRI-CCPC_Report.pdf),” co-author of the report prepared by the Foundation for Agrarian Studies for the International Rice Research Institute, November 2022.
 
 ### Publications in Other Media
-  - "[കേരളത്തിലെ കാർഷിക മേഖലയും കർഷകത്തൊഴിലാളികളും](https://themalabarjournal.com/labour-theme-agricultural-sector-and-agricultural-workers-in-kerala-deepak-johnson/), (in Malayalam) (English: Kerala's Agricultural Sector and Agricultural Workers), *The Malabar Journal*, May 26, 2022. 
+  - "[കേരളത്തിലെ കാർഷിക മേഖലയും കർഷകത്തൊഴിലാളികളും](https://themalabarjournal.com/labour-theme-agricultural-sector-and-agricultural-workers-in-kerala-deepak-johnson/)," (in Malayalam) (English: Kerala's Agricultural Sector and Agricultural Workers), *The Malabar Journal*, May 26, 2022. 
   - “[Food security does not need this ‘surgical strike'](https://www.thehindu.com/opinion/lead/food-security-does-not-need-this-surgical-strike/article65447720.ece),” (along with Madhura Swaminathan), *The Hindu*, March 23, 2022.
   - “[The Kerala alternative](https://frontline.thehindu.com/cover-story/kerala-government-policy-interventions-in-terms-of-expanding-price-support-and-ensuring-direct-procurement-of-farm-produce-present-an-alternative-course-for-agricultural-policies-in-india/article33319094.ece)" (print title) *Frontline*, January 1, 2021.
   - "[Grantee Update: Deepak Johnson](https://inlaksshivdasanifoundationblog.org/home/2020/12/14/grantee-update-deepak-johnson)", *Inlaks Shivdasani Foundation Blog*, December 15, 2020. (Research and Travel Grant from the Inlaks shivdasani Foundation helped me to conduct fieldwork in Vietnam. This blog has a detailed description of the fieldwork and some preliminary results.)
