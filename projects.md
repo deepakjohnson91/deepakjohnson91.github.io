@@ -5,7 +5,7 @@ layout: page
 This is a list of projects that I have worked in the recent months. Some of them are yet to be completed. Please get in touch with me (over email), in case you are interested.  
 
 ### Analysis of Farm Household Incomes in India  
-This is a joint work with Takashi Kurosaki. We compare how agricultural household incomes have changed over three points in time in India, using the National Sample Survey's Situation Assessment Surveys. The latest round of the survey was conducted in 2018&#8211;19. 
+This is a joint work with Professor Takashi Kurosaki. We compare how agricultural household incomes have changed over three points in time in India, using the National Sample Survey's Situation Assessment Surveys. The latest round of the survey was conducted in 2018&#8211;19. 
 A GitHub repository on how this dataset can be used is [here](https://github.com/deepakjohnson91/NSSO-77-Round-SAS). Using the previous rounds of data, we examine the regional and size-class patterns of change in household incomes and its components. This is an ongoing work and a first draft is under preparation.  
 
 ### Price and Non-Price Factors in Rice Cultivation: A Comparative Sutdy of Kerala and the Mekong Delta  
