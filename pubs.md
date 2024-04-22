@@ -4,6 +4,7 @@ layout: page
 ---
 
 ### Journal Publications
+  - Baksi, Sandipan, Modak, Tapas Singh, and Johnson, Deepak (2024), "[A Regulatory Price Mechanism for Crops Continues to be Desirable](https://www.epw.in/journal/2024/15/commentary/regulatory-price-mechanism-crops-continues-be.html)," *Economic and Political Weekly*, vol. 59, no. 15, pp. 15&ndash;20.
   - Johnson, Deepak (2023), "[International Organisations and Agriculture - A Current Perspective](https://www.epw.in/journal/2023/33/book-reviews/international-organisations-and-agriculture.html)," *Economic and Political Weekly*, vol. 58, no. 33, pp. 34&ndash;36 (Book Review).
   - Johnson, Deepak (2023), "[What is the Contribution of Government Support to Farm Incomes? A Case Study of Rice Cultivation from Kerala, India](https://ras.org.in/2c442bc30eb5eae983e1d302f3353529)," *Review of Agrarian Studies*, vol. 13, no. 1, pp. 42&ndash;60.
   - Modak, Tapas Singh, Baksi, Sandipan, and Johnson, Deepak (2020), “[Impact of Covid-19 on Indian Villages](http://ras.org.in/d1f1c91f41c51238d19a505303ce14eb),” *Review of Agrarian Studies*, vol. 10, no. 1, pp. 181&ndash;203. 
