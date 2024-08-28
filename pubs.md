@@ -12,7 +12,7 @@ layout: page
   - Johnson, Deepak (2018), “[Cropping Pattern Changes in Kerala, 1956-57 to 2016-17](http://ras.org.in/cropping_pattern_changes_in_kerala_1956),” *Review of Agrarian Studies*, vol. 8, no. 1, pp. 65&ndash;99.
 
 ### Working Paper
-  - Johnson, Deepak and Kurosaki, Takashi (2023), “[Price Support and Farm Incomes: Comparative Study of Rice Growing Regions in Southern India and Mekong-Delta Vietnam](https://www.ier.hit-u.ac.jp/Common/publication/DP/DPS-A741.pdf),” Discussion Paper Series A, No.741, Institute of Economic Research, Hitotsubashi University, Tokyo.
+  - Johnson, Deepak and Kurosaki, Takashi (2023), “[Price Support and Farm Incomes: Comparative Study of Rice Growing Regions in Southern India and Mekong-Delta Vietnam](https://www.ier.hit-u.ac.jp/Common/publication/DP/DPS-A741.pdf),” Discussion Paper Series A, No.741, Institute of Economic Research, Hitotsubashi University, Tokyo. (This is the working paper version of the article published in *Asia & the Pacific Policy Studies*.)
 
 ### Report
   - “[Trends in Costs and Incomes from Crop Production in India: Analysis of Costs of Cultivation Data, 2000–01 to 2019–20](https://fas.org.in/wp-content/uploads/2024/02/Work-Package_2-new_FAS-IRRI-CCPC_Report.pdf),” co-author of the report prepared by the Foundation for Agrarian Studies for the International Rice Research Institute, November 2022.
