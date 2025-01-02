@@ -4,6 +4,7 @@ layout: page
 ---
 
 ### Journal Publications
+  - Johnson, Deepak, Baksi, Sandipan, and Sethu, C. A. (2024), "[Green Revolution in India: Making Sense of the Qualitative and Quantitative Aspects of Change](https://www.epw.in/journal/2024/52/special-articles/green-revolution-india.html)," *Economic and Political Weekly*, vol. 59, no. 52, pp. 58&ndash;68.
   - Johnson, Deepak and Kurosaki, Takashi (2024), "[Price and Non-Price Factors in Development of Rice Cultivation: Case Studies From Southern India and Mekong-Delta Vietnam](https://onlinelibrary.wiley.com/doi/10.1002/app5.399)," *Asia & the Pacific Policy Studies*, vol. 11, no. 3, e399.
   - Baksi, Sandipan, Modak, Tapas Singh, and Johnson, Deepak (2024), "[A Regulatory Price Mechanism for Crops Continues to be Desirable](https://www.epw.in/journal/2024/15/commentary/regulatory-price-mechanism-crops-continues-be.html)," *Economic and Political Weekly*, vol. 59, no. 15, pp. 15&ndash;20.
   - Johnson, Deepak (2023), "[International Organisations and Agriculture - A Current Perspective](https://www.epw.in/journal/2023/33/book-reviews/international-organisations-and-agriculture.html)," *Economic and Political Weekly*, vol. 58, no. 33, pp. 34&ndash;36 (Book Review).
