@@ -2,7 +2,7 @@
 title: "Projects"
 layout: page
 ---
-This is a list of projects that I have worked in the recent months. Some of them are yet to be completed. Please get in touch with me (over email), in case you are interested.  
+This is a list of projects that I have worked in recent months. Some of them are yet to be completed. Please get in touch with me (over email), in case you are interested. Or you are welcome to come and visit me at my workplace.   
 
 ### Farm Households and Salaried Work in India  
 This is a joint work with Professor Takashi Kurosaki. We examine the role of salaried employment among agricultural households over three points in time in India, using the National Sample Survey's Situation Assessment Surveys. The latest round of the survey was conducted in 2018&#8211;19. 
