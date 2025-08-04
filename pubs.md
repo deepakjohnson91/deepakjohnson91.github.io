@@ -19,6 +19,7 @@ layout: page
   - “[Trends in Costs and Incomes from Crop Production in India: Analysis of Costs of Cultivation Data, 2000–01 to 2019–20](https://fas.org.in/wp-content/uploads/2024/02/Work-Package_2-new_FAS-IRRI-CCPC_Report.pdf),” co-author of the report prepared by the Foundation for Agrarian Studies for the International Rice Research Institute, November 2022.
 
 ### Publications in Other Media
+  - "[വിയറ്റ്നാമിലെ കാർഷിക മേഖല കേരളത്തിന് നൽകുന്ന പാഠം](https://chintha.in/?p=16188)," (in Malayalam) (English: Lesson's from Vietnam for Kerala;s Agricultural Sector), *Chintha*, June 2, 2025.
   - "[കേരളത്തിലെ കാർഷിക മേഖലയും കർഷകത്തൊഴിലാളികളും](https://themalabarjournal.com/labour-theme-agricultural-sector-and-agricultural-workers-in-kerala-deepak-johnson/)," (in Malayalam) (English: Kerala's Agricultural Sector and Agricultural Workers), *The Malabar Journal*, May 26, 2022. 
   - “[Food security does not need this ‘surgical strike'](https://www.thehindu.com/opinion/lead/food-security-does-not-need-this-surgical-strike/article65447720.ece),” (along with Madhura Swaminathan), *The Hindu*, March 23, 2022.
   - “[The Kerala alternative](https://frontline.thehindu.com/cover-story/kerala-government-policy-interventions-in-terms-of-expanding-price-support-and-ensuring-direct-procurement-of-farm-produce-present-an-alternative-course-for-agricultural-policies-in-india/article33319094.ece)" (print title) *Frontline*, January 1, 2021.
