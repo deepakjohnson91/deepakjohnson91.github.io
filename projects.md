@@ -5,7 +5,7 @@ layout: page
 This is a list of projects that I have worked in recent months. Some of them are yet to be completed. Please get in touch with me (over email), in case you are interested. Or you are welcome to come and visit me at my workplace.   
 
 ### Activities with the Research Group, Christ University  
-I have formed a research team with all dissertation students/scholars with me to engage in active research. We are a currently a group of nine students, who have taken up various projects related to agriculture, public finance, and climate change. We have conducted a few preliminary field studies. We meet regularly (once a week or once in two weeks). Please get in touch with me if you would like to know more details, or join our team.  
+I have formed a research team with all dissertation students/scholars with me to engage in active research. We are a currently a group of nine students, who have taken up various projects related to agriculture, public finance, and climate change. We have conducted a few preliminary field studies. We meet regularly (once a week or once in two weeks). I am also involved with the [Centre for Studies in Population and Development](https://cspd.in/), hosted by the Department of Economics, Christ University. We are focusing on issues related to labour and agriculture here. Please get in touch with me if you would like to know more details, or join our team. 
 
 ### Farm Households and Salaried Work in India  
 This is a joint work with Professor Takashi Kurosaki. We examine the role of salaried employment among agricultural households over three points in time in India, using the National Sample Survey's Situation Assessment Surveys. The latest round of the survey was conducted in 2018&#8211;19. 
