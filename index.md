@@ -10,6 +10,6 @@ I am Deepak Johnson, Assistant Professor, Department of Economics, [CHRIST (Deem
 
 I completed my PhD in Development Studies from the [Indian Statistical Institute Bangalore Centre](https://www.isibang.ac.in/) in 2021. The degree was awarded by the [Tata Institute of Social Sciences, Mumbai](https://tiss.edu/).  
 
-My interest areas are development economics and agricultural economics. My current research examines the contribution of salaried employment to household incomes among agricultural households in India. I am also handling a few undergraduate courses in my university.    
+My interest areas are development economics and agricultural economics. I handle courses related to introductory macroeconomics, microeconomics, growth and development, and R programming for undergraduate and graduate students at the University.     
   
 A note about my name: My official name is "Karayamparambil Deepak Johnson" with "Karayamparambil" being my surname (family name). However, I prefer to use "Deepak Johnson."  
